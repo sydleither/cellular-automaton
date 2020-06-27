@@ -10,3 +10,5 @@ Example of program:
 Output:
 
 ![alt_text](https://i.imgur.com/oh3WRqU.png)
+
+Future ideas including implementing Conway's Game of Life and improving picture quality.
