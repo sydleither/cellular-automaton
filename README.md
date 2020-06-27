@@ -4,6 +4,9 @@ A program that can generate elementary cellular automata based on an input rule 
 Explaination of elementary cellular automaton: https://mathworld.wolfram.com/ElementaryCellularAutomaton.html
 
 Example of program:
+
 ![alt text](https://i.imgur.com/mUUXEJ5.png)
+
 Output:
+
 ![alt_text](https://i.imgur.com/oh3WRqU.png)
